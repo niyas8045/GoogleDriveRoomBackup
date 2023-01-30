@@ -1,29 +1,23 @@
-# GoogleDriveRoomBackup
-Android Room Database Backup to Google Drive
+# Android Room Database Backup to Google Drive
 
-This is an Android sample project that demonstrates how to backup and restore a Room database to Google Drive. The project uses the following technologies:
+This is a sample Android project that demonstrates how to backup and restore a Room database to Google Drive using Google OAuth 2.0 for authentication and the Google Drive SDK for cloud storage. The project is built with Android Jetpack Compose and utilizes the Service Locator pattern to provide repository instance management.
+Key Features
 
-    Android Jetpack Compose for UI
-    Google OAuth 2.0 for authentication
-    Google Drive SDK for cloud storage
-    Service locator pattern for repository instance management
+    - Backup Room database to Google Drive with ease
+    - Restore Room database from Google Drive in just a few clicks
+    - Secure authentication using Google OAuth 2.0
+    - Reliable cloud storage with Google Drive SDK
+    - Clean and intuitive UI built with Android Jetpack Compose
+    - Efficient repository instance management with the Service Locator pattern
 
-Getting Started
+# Getting Started
 
-Clone the repository and open it in Android Studio to run the project on an emulator or device. Make sure you have a Google account to use the OAuth 2.0 authentication and Google Drive SDK.
-Features
+Clone this repository and open it in Android Studio to run the project on an emulator or device. You will need a Google account to use Google OAuth 2.0 for authentication and the Google Drive SDK for cloud storage.
 
-    Backup Room database to Google Drive
-    Restore Room database from Google Drive
-    UI built with Android Jetpack Compose
-    Authentication using Google OAuth 2.0
-    Google Drive SDK for cloud storage
-    Service locator pattern for repository instance management
-    
-
-Contribute
+# Contribute
 
 We welcome contributions from the open-source community. If you would like to contribute to this project, please feel free to submit a pull request.
-Stay Updated
+
+# Stay Updated
 
 Star this repository and stay updated with the latest improvements and bug fixes.
