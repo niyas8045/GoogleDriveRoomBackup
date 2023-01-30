@@ -20,6 +20,7 @@ Features
     Google Drive SDK for cloud storage
     Service locator pattern for repository instance management
     
+
 Contribute
 
 We welcome contributions from the open-source community. If you would like to contribute to this project, please feel free to submit a pull request.
